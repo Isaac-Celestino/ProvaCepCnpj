@@ -66,7 +66,8 @@
               "browserTarget": "buscacep-ui:build:production"
             },
             "development": {
-              "browserTarget": "buscacep-ui:build:development"
+              "browserTarget": "buscacep-ui:build:development",
+              "disableHostCheck": true 
             }
           },
           "defaultConfiguration": "development"
